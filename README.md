@@ -1,1 +1,1 @@
-# Stopwatch-App
+# Aplikacja z funkcją stopera:
